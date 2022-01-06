@@ -1,0 +1,14 @@
+{"__comment__": "JSON file specifying the image to use for a given type/name and resolution. Read in by cartopy.mpl.geoaxes.read_user_background_images.",
+"ne_gray": {
+    "__comment__": "Natural Earth 10m grey shaded relief ",
+    "__source__": "http://www.naturalearthdata.com/downloads/10m-raster-data/10m-gray-earth/",
+    "__projection__": "PlateCarree",
+    "low": "gray.png"
+  },
+  "ne_shaded": {
+  "__comment__": "Natural Earth shaded relief",
+  "__source__": "http://www.naturalearthdata.com/downloads/50m-raster-data/50m-natural-earth-1/",
+  "__projection__": "PlateCarree",
+  "low": "gray.png"
+ }
+}
